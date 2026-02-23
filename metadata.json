@@ -1,0 +1,8 @@
+{
+  "name": "AI Health Assistant",
+  "description": "An AI web application that takes input from users via voice, text, images, and live audio conversation to provide health solutions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
